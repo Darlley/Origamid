@@ -10,4 +10,4 @@ Repositórios dos cursos:
 Projetos:
 1. Site [Bikcraft](https://darlley.github.io/Frontend/WebDesign-Origamid/) - Curso Web Design Completo
 1. Site [Animais Fantásticos](https://darlley.github.io/JavaScript/Cursos/JavaScriptCompletoES6/Parte5/aula02/) - Curso JavaScript Completo ES6
-1. Site [Flexblog]() - Curso CSS Flexbox
+1. Site [Flexblog](https://darlley.github.io/Origamid/Flexblog/) - Curso CSS Flexbox
